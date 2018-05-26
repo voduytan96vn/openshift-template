@@ -367,8 +367,8 @@
     },
     {
       "name": "POSTGRESQL_DATABASE",
-      "description": "PostgreSQL Database Name",
-	  "description": "Name of the PostgreSQL database accessed.",
+      "displayName": "PostgreSQL Database Name",
+      "description": "Name of the PostgreSQL database accessed.",
       "value": "root",
 	  "required": true
     }
